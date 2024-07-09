@@ -93,6 +93,7 @@
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
     "arg": "^5.0.2",
+    "cross-env": "^7.0.3",
     "delay": "^5.0.0",
     "eslint": "^7.20.0",
     "eslint-config-prettier": "7.1.0",
